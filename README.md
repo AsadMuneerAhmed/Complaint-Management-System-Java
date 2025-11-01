@@ -23,9 +23,10 @@ UI Framework: Java Swing
 Open project in NetBeans IDE.
 Import the MySQL database (complaint_management.sql).
 Configure your database connection in the code (username, password).
+Run the main form (e.g., WelcomePage.java).
 
 **Developed By**
 _Asad Ali
 Student Project — Complaint Management System (Java, MySQL, NetBeans)_
 
-4. Run the main form (e.g., WelcomePage.java).
+
